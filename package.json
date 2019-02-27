@@ -1,0 +1,14 @@
+{
+  "name": "tinyweb3",
+  "version": "1.0.0",
+  "description": "Tiny library to make contracts instantiation a little bit easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexdarkstalker2007",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.0.0-beta.46"
+  }
+}
